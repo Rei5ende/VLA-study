@@ -78,4 +78,3 @@ graph LR
 | **3** | **Open X-Embodiment: Robotic Learning Datasets and RT-X Models** | 2023 | [arXiv:2310.08864](https://arxiv.org/abs/2310.08864) | 대규모 교차 형태 데이터셋 및 RT-X 모델 |
 | **4** | **OpenVLA: An Open-Source Vision-Language-Action Model** | 2024 | [arXiv:2406.09246](https://arxiv.org/abs/2406.09246) | 7B 오픈소스 VLA 및 LoRA 미세조정 검증 |
 | **5** | **$\pi_0$: A Vision-Language-Action Flow Model for General Robot Control** | 2024 | [arXiv:2410.24164](https://arxiv.org/abs/2410.24164) | Flow matching 기반 고주파수 연속 로봇 제어 |
-| **6** | **VLA 및 로봇 파운데이션 모델 스터디 로드맵** | 2026 | Internal Study Note | 
